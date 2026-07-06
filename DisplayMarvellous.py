@@ -1,0 +1,15 @@
+# ---------------------------------------------------------
+# Question:
+# Write a program which displays
+# "Marvellous" 5 times on the screen.
+# ---------------------------------------------------------
+def Display():
+
+    for _ in range(5):
+        print("Marvellous")
+
+def main():
+    Display()
+
+if __name__ == "__main__":
+    main()
